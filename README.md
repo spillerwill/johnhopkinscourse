@@ -1,2 +1,2 @@
 # johnshopkinscourse
-John Hopkins Coursera Data Science
+Johns Hopkins Coursera Data Science
